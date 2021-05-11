@@ -1,1 +1,15 @@
+<?xml version="1.0"?>
+<detalle_venta>
+  <fecha>2021-01-13</fecha>
+  <nombre>Namjoon</nombre>
+  <direccion>zona de Gangnam</direccion>
+  <dni>40022345</dni>
+  <producto>pringles</producto>
+  <documento>Boleta</documento>
+  <numero>004</numero>
+  <cantidad>5</cantidad>
+  <stock>2</stock>
+  <subtotal>3</subtotal>
+</detalle_venta>
+
 
